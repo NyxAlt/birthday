@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+body{
+    background-image: url(imgjava/8bit\ STICKER\ -\ Find\ &\ Share\ on\ GIPHY.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: rgb(250, 154, 170);
+}

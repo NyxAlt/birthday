@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+#quiz1stQ{
+    color: pink;
+}
+body{
+    background-image: url(imgjava/download\ \(1\).gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.options{
+    font-size: 2em;
+    font-style: italic;
+    padding: 5px 10px;
+    border-radius: 25px;
+    transition: background-color 0.25s;
+    cursor: pointer;
+    background-color: rgb(248, 133, 152);
+}
+.options:hover{
+    background-color: pink;
+}

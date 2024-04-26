@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+
+#madstatement{
+    color: palevioletred;
+}
+body{
+    background-image: url(imgjava/brokengif.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}

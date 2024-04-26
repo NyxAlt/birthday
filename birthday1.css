@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+#Statement{
+    color: rgb(206, 34, 206);
+}
+body{
+    background-image: url(imgjava/bdaygif1.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Button{
+    font-size: 2em;
+    font-style: italic;
+    padding: 5px 10px;
+    border-radius: 25px;
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+#button3{
+    background-color: purple;
+}
+#button3:hover{
+    background-color: rgb(216, 27, 216); 
+}
